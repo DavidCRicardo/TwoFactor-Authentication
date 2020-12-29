@@ -13,3 +13,9 @@ User Register & Login
 
 # Tecnologies
 This University Project has the necessary tecnologies to the develop of site and the application to Android, for the communication, between the site and the database, and, between the database and the aplication.
+
+
+## Register
+[!user register](https://github.com/DavidCRicardo/TwoFactor-Authentication/user_register.png)
+## User
+[!user login(https://github.com/DavidCRicardo/TwoFactor-Authentication/user_login.png)
