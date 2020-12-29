@@ -16,6 +16,6 @@ This University Project has the necessary tecnologies to the develop of site and
 
 
 ## Register
-![user register](https://github.com/DavidCRicardo/TwoFactor-Authentication/user_register.png)
+![user register](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/user_register.png)
 ## User
-![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/user_login.png)
+![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/user_login.png)
