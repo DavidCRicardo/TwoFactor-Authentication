@@ -23,4 +23,4 @@ This University Project has the necessary tecnologies to the develop of site and
 ## 5. Verify the account with a code received by email
 ![account verify](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
 ## 6. Start the countdown to write the password to access the accont
-![account unlock(https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
+![account unlock](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
