@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<Button
+		android:text="Voltar"
+		android:layout_width="124.5dp"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/btnBacktoMenu" />
+	<TextView
+		android:text="Nome da Conta"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/textViewNomedaConta" 
+		android:layout_below="@id/btnBacktoMenu"/>
+    <EditText
+		android:text=""
+		android:inputType="textPersonName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/editTextNomedaConta"
+		android:layout_below="@id/textViewNomedaConta" />
+    <TextView
+		android:text="Password"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/editTextNomedaConta"
+		android:id="@+id/textViewPassword" />
+    <EditText
+		android:inputType="textPassword"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textViewPassword"
+		android:id="@+id/editTextPassword"/>
+	<Button
+		android:text="Adicionar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/editTextPassword"
+		android:id="@+id/btnAddingAcc" />
+</LinearLayout>

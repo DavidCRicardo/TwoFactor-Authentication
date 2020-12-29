@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<Button
+		android:text="Voltar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/btnBack" />
+	<TextView
+		android:text="Insira abaixo o código"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnBack"
+		android:id="@+id/txtViewCodigo" />
+	<EditText
+		android:text=""
+		android:inputType="textPersonName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtViewCodigo"
+		android:id="@+id/editTextCodigo" />
+	<Button
+		android:text="Seguinte"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/editTextCodigo"
+		android:id="@+id/btnNext" />
+    <TextView
+        android:text="Foi enviado um código para o seu email."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+</LinearLayout>
