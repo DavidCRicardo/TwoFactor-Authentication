@@ -1,0 +1,54 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+
+}
+
+html{
+	/*background: black;*/
+	/*height: auto;*/
+}
+
+body{
+	margin: 0%;
+	background-color: #d4d4d4;
+}
+
+header{
+	margin: 0%;
+	width: 100%;
+	z-index: 1;
+	position: relative;
+	background-color: #ffd23b;
+}
+
+.lit-margin {
+	background-color: white;
+	/*border: 3px solid blue;*/
+	margin: 2%;
+	/*margin-left: 5%; */
+	padding: 0%;
+	width: 25%;
+	/*box-shadow: 5px 5px 5px 5px ;*/
+}
+
+.moreinfo{
+float: left;
+background: #9c1413;
+
+margin-left: 2%;
+margin-right: 2%;
+margin-bottom: 5%;
+}
+
+.dropdown .active{
+	text-align: left;
+}
+
+.btdownclass{
+	color: red;
+	/*padding: 0.5%;*/
+	border: none;
+	background-color: none;
+	margin-bottom: 2%;
+}

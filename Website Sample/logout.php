@@ -1,0 +1,16 @@
+<?php
+
+//	logout.php
+
+// iniciar sessão
+session_start();
+
+// destruir a sessão
+session_destroy();
+
+echo "Sessão terminada com sucesso!";
+
+ 
+// enviar o utilizador para página de autenticação
+header('Location: login.php');
+?>
