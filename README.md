@@ -19,8 +19,8 @@ This University Project has the necessary tecnologies to the develop of site and
 ![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/user_login.png)
 ## 3. Activate the Two-Factor Authentication on Account Settings and download the app
 ## 4. Add the account to the app
-![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_add.png)
+![account add](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_add.png)
 ## 5. Verify the account with a code received by email
-![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
+![account verify](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
 ## 6. Start the countdown to write the password to access the accont
-![user login](https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
+![account unlock(https://github.com/DavidCRicardo/TwoFactor-Authentication/blob/main/account_verify.png)
