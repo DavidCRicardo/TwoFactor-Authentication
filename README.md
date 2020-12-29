@@ -3,7 +3,7 @@ Developed in 2019 for Academic Purposes.
 To make this project was needed to install the "Visual Studio Tools for Xamarin".
 
 ### University Project
-This University Project was the final project done and presented in the last year on Graduation (First Degreee), and had how topic the activation of Authentication Two Factor.
+This University Project was the final project done and presented in the last year on Graduation (First Degree), and had how topic the activation of Authentication Two Factor.
 To enable the Authentication Two Factor it's required to do an User Register, install the app in smartphone, and proceed to confirmation.
 
 [Currently Offline]
